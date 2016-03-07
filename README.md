@@ -1,4 +1,6 @@
 # webpack-typescript-jquery
+Small sample code for webpack, typescript and jquery integration.
+
 
 ## Only 3 steps!
 
